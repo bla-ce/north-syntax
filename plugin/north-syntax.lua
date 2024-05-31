@@ -16,3 +16,5 @@ function current_buffer_has_extension()
       print("Hello, World!\n")
     end
 end
+
+current_buffer_has_extension()
